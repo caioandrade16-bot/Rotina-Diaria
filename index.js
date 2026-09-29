@@ -1,4 +1,4 @@
-const hora = 10;
+const hora = 10
 let mensagem = "Hora de descansar e dormir! "
 
 if (hora >= 6 && hora < 8) {
@@ -13,4 +13,4 @@ if (hora >= 6 && hora < 8) {
   mensagem = "Hora de tomar banho e jantar! "
 }
 
-console.log(mensagem);
+console.log(mensagem)
